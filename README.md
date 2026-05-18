@@ -53,6 +53,7 @@ Analytics)**, the analytical layer successfully isolated a hidden operational th
 * **The Operational Drag:** Despite producing near-zero financial value, Grocery
 exhibits a **3.28% absolute return rate**—operating at a massive **61.58% return
 intensity relative to our high-volume Electronics baseline**.
+![Operational return rate analytics sheet](./03_Data_prototype_Excel/Assets/Return_analytics_pivot.png)
 * **Strategic Recommendation:** The operational cost of reverse logistics and
 restocking high-frequency grocery items completely wipes out its profit margin.
 Leadership has formally recommended this product line for strategic vendor
