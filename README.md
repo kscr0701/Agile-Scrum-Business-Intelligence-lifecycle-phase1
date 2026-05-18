@@ -34,7 +34,7 @@ Margins, and Relative Category Return Rates.
 Technical_Implementation_and_Insights.md:** Comprehensive engineering
 summary detailing our single-direction Star Schema relationships, visual dashboard
 sheet mappings, and an active quality assurance bug log.
-![Data Model Schema Architecture](./Assets/data_model_schema.png)
+![Enterprise retail star schema data model](./03_Data_prototype_Excel/Assets/data_model_schema.png)
 * **Sprint 3 UAT & Sign-Off Documentation
 Sprint_SignOff_and_UAT_Report.pdf:** Official User Acceptance Testing (UAT)
 report confirming that all 6 analytical sheets passed verification checks with the CFO
